@@ -19,3 +19,6 @@ section {
   padding: 20px;
   border: 1px solid #e3e3e3;
 }
+
+/* Highlight the status section */
+#status { border-left: 4px solid #2864a5; }
