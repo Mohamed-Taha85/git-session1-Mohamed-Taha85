@@ -28,3 +28,7 @@ This command shows the current state of the repository.
 
 ## Useful Link
 [My GitHub Profile](https://github.com/Mohamed-Taha85)
+
+## Remote Update
+
+This section was added directly on GitHub to practice fetching and pulling remote changes.
